@@ -1,4 +1,4 @@
 
 # 📝 Hi
 
-[Portfolio](https://itcantobe.com/)
+[Portfolio](https://itcantobe.com/portfolio)
